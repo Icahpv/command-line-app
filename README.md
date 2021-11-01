@@ -43,7 +43,10 @@
 
 ### Attributions
 
-[Tony Grimes(Instructor)](https://github.com/acidtone): function and if else statement.
+- [Tony Grimes (Instructor)](https://github.com/acidtone): function and if else statement.
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Luxon Examples](https://moment.github.io/luxon/demo/global.html)
+- [Luxon Documentation](https://moment.github.io/luxon/#/?id=luxon)
 
 #### License
 [MIT License](LICENSE) :scroll:
