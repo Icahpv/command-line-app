@@ -30,15 +30,15 @@
 - [x] Third part npm package
   -  NPM Package: [Luxon](https://www.npmjs.com/package/luxon), installed in directory.
 
-This command line app can tell the current date, yesterday's date and tomorrow's date, by simply following the commands listed in the **Three Distinct Responses**. I chose **Luxon** due to its ease of use and it is perfect for my goal which is the ability to present dates in the command line. I also chose Luxon because of its ease of use, the documentation is easy to navigate and understand.
+> This command line app can tell the current date, yesterday's date and tomorrow's date, by simply following the commands listed in the **Three Distinct Responses**. I chose **Luxon** due to its ease of use and it is perfect for my goal which is the ability to present dates in the command line. I also chose Luxon because of its ease of use, the documentation is easy to navigate and understand.
 
 ## Problems
 
-- One of the problems I encountered is setting my timezone to a shorter version.
+- One problem I encountered is setting my timezone to a shorter version.
 
 ### Assets
 
-> NPM Package: [Luxon](https://www.npmjs.com/package/luxon), installed in directory.
+- NPM Package: [Luxon](https://www.npmjs.com/package/luxon), installed in directory.
 
 ### Attributions
 
