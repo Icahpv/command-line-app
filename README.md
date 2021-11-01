@@ -42,7 +42,7 @@
 
 ### Attributions
 
-[Tony Grimes(Instructor)]((https://github.com/acidtone)): function and if else statement.
+[Tony Grimes(Instructor)](https://github.com/acidtone): function and if else statement.
 
 #### License
 [MIT License](LICENSE) :scroll:
