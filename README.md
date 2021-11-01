@@ -45,4 +45,4 @@
 [Tony Grimes(Instructor)]((https://github.com/acidtone)): function and if else statement.
 
 #### License
-[MIT License](https://opensource.org/licenses/MIT) :scroll:
+[MIT License](LICENSE) :scroll:
