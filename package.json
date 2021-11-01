@@ -1,0 +1,22 @@
+{
+  "name": "cpnt262-a4",
+  "version": "1.0.0",
+  "description": "Node command line app",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icahpv/cpnt262-a4.git"
+  },
+  "author": "Icah Vega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Icahpv/cpnt262-a4/issues"
+  },
+  "homepage": "https://github.com/Icahpv/cpnt262-a4#readme",
+  "dependencies": {
+    "luxon": "^2.0.2"
+  }
+}
