@@ -12,7 +12,7 @@
 - [x] Command Line Arguments
 - [x] Logged Response
   - [x] Three Distinct Responses
-  > Before entering these commands, please navigate to [assets](assets)/[js](js) in my directory.
+    > Before entering these commands, please navigate to [assets](assets)/[js](js) in my directory.
   -  ``` node app today [name] ```
   -  ``` node app tomorrow [name] ```
   -  ``` node app yesterday [name]  ```
